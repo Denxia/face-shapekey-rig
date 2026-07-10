@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "face_shapekey_rig"
+version = "1.0.0-beta.3"
+name = "Face Shape Key Rig"
+tagline = "Viewport slider and pad controllers for shape keys"
+maintainer = "DeerHunter"
+type = "add-on"
+website = "https://github.com/Denxia/face-shapekey-rig"
+support = "https://github.com/Denxia/face-shapekey-rig/issues"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
